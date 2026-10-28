@@ -27,9 +27,9 @@ The application is built using Python and Streamlit to provide a simple, interac
 Telecom-churn/
 │
 ├── app.py                 # Streamlit application
-├── train_model.py         # Model training script
+├── best_model.pkl         # Model training script
 ├── requirements.txt       # Required Python libraries
-├── model.pkl              # Saved trained model (generated)
+├── scaler.pkl              # Saved trained model (generated)
 ├── dataset.csv            # Customer dataset (use actual filename)
 └── README.md              # Project documentation
 ```
